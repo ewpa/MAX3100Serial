@@ -1,5 +1,5 @@
 /*
-  $Id: MAX3100Serial.h,v 1.5 2016/08/22 18:49:53 ewan Exp $
+  $Id: MAX3100Serial.h,v 1.6 2018/03/07 12:40:42 ewan Exp $
   Arduino MAX3100Serial library.
   MAX3100Serial.h (C) 2016 Ewan Parker.
 
@@ -16,7 +16,7 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-  The author may be reached at http//www.ewan.cc/ for queries.
+  The author may be reached at https://www.ewan.cc/ for queries.
 
 
   A Maxim Integrated MAX3100 external USART/UART communication library for

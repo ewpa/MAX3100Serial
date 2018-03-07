@@ -1,5 +1,5 @@
 /*
-  $Id: DuplexEcho.ino,v 1.5 2016/08/22 18:49:53 ewan Exp $
+  $Id: DuplexEcho.ino,v 1.6 2018/03/07 12:40:42 ewan Exp $
   Echo serial i/o between the built in USART and the external MAX3100.
   DuplexEcho.ino (C) 2016 Ewan Parker.
 
@@ -16,7 +16,7 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-  The author may be reached at http//www.ewan.cc/ for queries.
+  The author may be reached at https://www.ewan.cc/ for queries.
 
 
   Assemble the Arduino and MAX3100CPD circuit as follows.  This could be made
