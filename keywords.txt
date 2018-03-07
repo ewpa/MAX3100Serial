@@ -1,0 +1,12 @@
+# $Id: keywords.txt,v 1.2 2016/07/24 10:40:23 ewan Exp $
+
+MAX3100Serial	KEYWORD1
+
+begin	KEYWORD2
+end	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
+available	KEYWORD2
+flush	KEYWORD2
+# The peek operation is not supported.
+#peek	KEYWORD2
